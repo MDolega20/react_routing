@@ -6,15 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "build": "cd client &&  npm install && npm run build",
-    "start-build": "node index.js && cd client &&  npm install && npm run build"
+    "build": "cd client &&  npm install && npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MDolega20/react_routing.git"
   },
   "keywords": [],
-  "author": "Mateusz Dołęga <matdol2000@gmail.com> (mdol.pl)",
+  "author": "Mateusz Dołęga (mdol.pl)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MDolega20/react_routing/issues"
